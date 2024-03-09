@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Harsha G!;" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=28&pause=1000&color=A83AFF&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+%F0%9F%96%90%EF%B8%8F;I'm+Harsha+G!" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">I love creating efficient and elegant solutions to complex problems, and I'm constantly learning and exploring new technologies to expand my skill set</h3>
