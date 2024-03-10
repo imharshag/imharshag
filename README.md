@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="300" src="https://cdna.artstation.com/p/assets/images/images/050/392/912/original/nelson-tiapa-gif-con-telefono.gif?1654734490">
 
 <div align="left">
-<br/><br/>
+<br/><br/><br/>
 
   🔭 I’m currently working on **a marketplace**
   
@@ -21,7 +21,7 @@
 
 </div>
 
-<br/><br/><br/><br/>
+<br/><br/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
