@@ -39,5 +39,5 @@
   <a href="mailto:harshag3106@gmail.com?subject=Your%20Subject&body=You%20can%20Start%20by%20Saying%20Hi!"><img src="https://skillicons.dev/icons?i=gmail"/></a>
   <a href="https://github.com/imharshag"><img src="https://skillicons.dev/icons?i=github"/></a>
   <a href="https://www.linkedin.com/in/harsha-g-72a900292"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
-  <a href=""><img src="https://skillicons.dev/icons?i=instagram"/></a>
+  <a href="https://www.instagram.com/imharshag/?igsh=NG42NHA2ZG8xaWdi"><img src="https://skillicons.dev/icons?i=instagram"/></a>
 </div>
