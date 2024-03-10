@@ -36,8 +36,8 @@
 
 <div align="center">
   <h2 align="center">You can Start by saying Hi!</h2>
-  <a href="mailto:harshag3106@gmail.com?subject=Your%20Subject&body=You%20can%20Start%20by%20Saying%20Hi!" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" />  </a>
-  <a href="https://github.com/imharshag" target="_blank"><img src="https://skillicons.dev/icons?i=github" />  </a>
-  <a href="https://www.linkedin.com/in/harsha-g-72a900292" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" />  </a>
-  <a href=""><img src="https://skillicons.dev/icons?i=instagram" target="_blank" />  </a>
+  <a href="mailto:harshag3106@gmail.com?subject=Your%20Subject&body=You%20can%20Start%20by%20Saying%20Hi!" target="_blank"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+  <a href="https://github.com/imharshag" target="_blank"><img src="https://skillicons.dev/icons?i=github"/></a>
+  <a href="https://www.linkedin.com/in/harsha-g-72a900292" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+  <a href=""><img src="https://skillicons.dev/icons?i=instagram" target="_blank"/></a>
 </div>
