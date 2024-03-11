@@ -18,6 +18,15 @@
 
   🚀 Actively expanding my skills in leading-edge technologies such as **Django, Framer Motion, Next.js, and Tailwind CSS.**
 
+<br/>
+
+  <div align="center"> 
+  <a href="https://docs.google.com/document/d/1x1bphbBCrdfg-TJLqLL_VTUEzMyynMvEmgqvbfBGdto/edit?usp=drive_link">
+    <img src="https://img.shields.io/badge/Resume-0000CC?style=for-the-badge&logoColor=white" /></a>
+  <a href="https://harsha-g.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-E50914?style=for-the-badge&logoColor=white" target="_blank" /></a>
+</div>
+
 </div>
 
 <br/><br/>
