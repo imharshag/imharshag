@@ -6,18 +6,17 @@
 
 <br/>
 
-<img align="right" alt="Coding" width="300" src="https://cdna.artstation.com/p/assets/images/images/050/392/912/original/nelson-tiapa-gif-con-telefono.gif?1654734490">
+<div align="center">
+<img align="center" alt="Coding" width="200" src="https://cdna.artstation.com/p/assets/images/images/050/392/912/original/nelson-tiapa-gif-con-telefono.gif?1654734490">
+</div>
 
-<div align="left">
-<br/><br/><br/>
+<br/>
 
-  🔭 I’m currently working on **a marketplace**
+<div align="center">
   
-  🌱 I’m currently learning **Docker, Supabase, AWS**
+  📚 Currently, I am pursuing a Bachelor's in  **Information Science and Engineering** at **JSS Science And Technology University.**
 
-  💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
-
-  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+  🚀 Actively expanding my skills in leading-edge technologies such as **Django, Framer Motion, Next.js, and Tailwind CSS.**
 
 </div>
 
