@@ -8,9 +8,9 @@
 
 <div align="center">
   
-  📚 Currently, I am pursuing a Bachelor's in  **Information Science and Engineering** at **JSS Science And Technology University.**
+  📚 I'm pursuing a Bachelor's in  **Information Science and Engineering** at **JSS Science And Technology University.**
 
-  🚀 Actively expanding my skills in leading-edge technologies such as **Django, Framer Motion, Next.js, and Tailwind CSS.**
+  🚀 Currently expanding my skills in leading-edge technologies such as **Django, Framer Motion, Next.js, and Tailwind CSS.**
 
 <br/>
 
