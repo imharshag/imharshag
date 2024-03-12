@@ -7,12 +7,6 @@
 <br/>
 
 <div align="center">
-<img align="center" alt="Coding" width="200" src="https://cdna.artstation.com/p/assets/images/images/050/392/912/original/nelson-tiapa-gif-con-telefono.gif?1654734490">
-</div>
-
-<br/>
-
-<div align="center">
   
   📚 Currently, I am pursuing a Bachelor's in  **Information Science and Engineering** at **JSS Science And Technology University.**
 
