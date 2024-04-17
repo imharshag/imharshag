@@ -2,7 +2,6 @@
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Righteous&size=35&duration=1300&pause=2000&color=CCF761&center=true&vCenter=true&random=false&width=435&lines=Hello+There!++%F0%9F%91%8B;I'm+Harsha+G" alt="Typing SVG" /></a>
 </h1>
-<h3 align="center">Join me on my journey as I learn, grow, and contribute to the dynamic field of engineering.</h3>
 
 <br/>
 
