@@ -6,7 +6,7 @@
 <br/> 
 
 <div> 
-<h3>Code Frameworks Tools ⚙️</h3>
+<h3>Code • Frameworks • Tools ⚙️</h3>
 <img src="https://skillicons.dev/icons?i=python,c,java,cpp,cs,javascript," /><br/> 
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,django,tailwind" /><br/> 
 <img src="https://skillicons.dev/icons?i=bootstrap,mysql,mongodb,vscode,vercel,aws" /><br/> 
