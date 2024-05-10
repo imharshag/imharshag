@@ -1,6 +1,6 @@
 <h1>Hey, it's Harsha G here! 🌟</h1>
 
-🚀 Tech enthusiast. **Aspiring Software Enginee**r.
+🚀 **Aspiring Software Engineer**, Tech enthusiast. 
 
 🔍 Exploring the depths of **Information Science and Engineering** at **JSS Science And Technology University.** 
 <br/> 
