@@ -1,4 +1,4 @@
-<h1>Hey, it's Harsha here! 🌟</h1>
+<h1>Hey, it's Harsha G here! 🌟</h1>
 
 🚀 Tech enthusiast. **Aspiring Software Enginee**r.
 
