@@ -1,4 +1,4 @@
-<h1>Hey, it's Harsha G here! 🌟</h1>
+<h1>Hey https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif , it's Harsha G here! </h1>
 
 🚀 **Aspiring Software Engineer**, Tech enthusiast. 
 
