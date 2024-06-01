@@ -5,6 +5,9 @@
 🔍 Exploring the depths of **Information Science and Engineering** at **JSS Science And Technology University.** 
 
 <img src="https://skillicons.dev/icons?i=linkedin" width="20px"> &nbsp;Let's connect on **[LinkedIn](https://www.linkedin.com/in/imharshag/)!**
+
+<img src="https://skillicons.dev/icons?i=gmail" width="20px">&nbsp; I'm just an email away! Drop me a message at **harshag3106@gmail.com**
+
 <br/> 
 
 <div> 
@@ -14,10 +17,5 @@
 <img src="https://skillicons.dev/icons?i=bootstrap,mysql,mongodb,vscode,vercel,aws" /><br/> 
 </div> 
 
-<div> 
-<h3>You can start by saying Hi!👋</h3> 
-<a href="mailto:harshag3106@gmail.com?subject=Your%20Subject&body=You%20can%20Start%20by%20Saying%20Hi!"><img src="https://skillicons.dev/icons?i=gmail"/></a></t>
-<a href="https://www.linkedin.com/in/imharshag/"><img src="https://skillicons.dev/icons?i=linkedin"/></a> 
-</div> 
 <br/> 
 <br/>
