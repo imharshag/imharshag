@@ -4,7 +4,7 @@
 
 🔍 Exploring the depths of **Information Science and Engineering** at **JSS Science And Technology University.** 
 
-Let's connect on **[LinkedIn](https://www.linkedin.com/in/imharshag/)!**
+<img src="https://skillicons.dev/icons?i=linkedin" width="20px"> &nbsp;Let's connect on **[LinkedIn](https://www.linkedin.com/in/imharshag/)!**
 <br/> 
 
 <div> 
