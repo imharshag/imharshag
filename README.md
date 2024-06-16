@@ -4,7 +4,7 @@
 
 🌱&nbsp;Exploring the depths of **Information Science and Engineering** at **JSS Science And Technology University.** 
 
-<img src="https://skillicons.dev/icons?i=linkedin" width="20px"> &nbsp;Let's connect on **[LinkedIn](https://www.linkedin.com/in/imharshag/)!**
+<img src="https://skillicons.dev/icons?i=linkedin" width="20px"> &nbsp;Let's connect on **[LinkedIn!](https://www.linkedin.com/in/imharshag/)**
 
 <img src="https://skillicons.dev/icons?i=gmail" width="20px">&nbsp; I'm just an email away! Drop me a message at **harshag3106@gmail.com**
 
