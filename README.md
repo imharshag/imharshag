@@ -10,10 +10,10 @@
 
 🌟 Check out what I've been working on during my studies at **[My Portfolio](https://harsha-g.vercel.app/)**
 
+📝 For a more detailed look at my experiences and skills, here’s my **[Resume](https://drive.google.com/your-resume-link)**
 <br/> 
-
 <div> 
-<h3>Code • Frameworks • Technologies ⚙️</h3>
+<h3>Code • Frameworks • Technologies </h3>
 <img src="https://skillicons.dev/icons?i=python,c,java,cpp,cs,javascript,html,css,react,dotnet" /><br/> 
 <img src="https://skillicons.dev/icons?i=nextjs,bootstrap,mysql,mongodb,vscode,vercel,aws,django,tailwind,azure" /><br/> 
 </div> 
