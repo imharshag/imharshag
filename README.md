@@ -10,7 +10,7 @@
 
 🌟 Check out what I've been working on during my studies at **[My Portfolio](https://harsha-g.vercel.app/)**
 
-📝 For a more detailed look at my experiences and skills, here’s my **[Resume](https://drive.google.com/your-resume-link)**
+📝 For a more detailed look at my experiences and skills, here’s my **[Resume](https://drive.google.com/file/d/1ROsjwARC2YjvSnl07i_c7nCKCXi5NR66/view?usp=sharing)**
 <br/> 
 <div> 
 <h3>Code • Frameworks • Technologies </h3>
