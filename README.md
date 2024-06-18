@@ -13,10 +13,9 @@
 📝 For a more detailed look at my experiences and skills, here’s my **[Resume](https://drive.google.com/file/d/1ROsjwARC2YjvSnl07i_c7nCKCXi5NR66/view?usp=sharing)**
 <br/> 
 <div> 
-<h3>Code • Frameworks • Technologies </h3>
+<h3>Code • Frameworks • Technologies</h3>
 <img src="https://skillicons.dev/icons?i=python,c,java,cpp,cs,javascript,html,css,react,dotnet" /><br/> 
 <img src="https://skillicons.dev/icons?i=nextjs,bootstrap,mysql,mongodb,vscode,vercel,aws,django,tailwind,azure" /><br/> 
 </div> 
 
 <br/> 
-
