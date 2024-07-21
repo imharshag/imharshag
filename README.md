@@ -8,7 +8,7 @@
 
 <img src="https://skillicons.dev/icons?i=gmail" width="20px">&nbsp; I'm just an email away! Drop me a message at **harshag3106@gmail.com**
 
-🌟 Check out what I've been working on during my studies at **[My Portfolio](https://harsha-g.vercel.app/)**
+🌟 Check out what I've been working on during my studies at **[My Portfolio](https://harshag.vercel.app/)**
 
 📝 For a more detailed look at my experiences and skills, here’s my **[Resume](https://drive.google.com/file/d/1LWz7rVbEDpNGAlbH8hzXneqEodanPbJY/view?usp=drive_link)**
 <br/> 
