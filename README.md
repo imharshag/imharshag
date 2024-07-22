@@ -9,7 +9,6 @@
 <img src="https://skillicons.dev/icons?i=gmail" width="20px">&nbsp; I'm just an email away! Drop me a message at **harshag3106@gmail.com**
 
 🌟 Check out what I've been working on during my studies at **[My Portfolio](https://harshag.vercel.app/)**
-
 <br/> 
 <div> 
 <h3>Code • Frameworks • Technologies</h3>
