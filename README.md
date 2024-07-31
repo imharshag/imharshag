@@ -12,8 +12,8 @@
 <br/> 
 <div> 
 <h3>Code • Frameworks • Technologies</h3>
-<img src="https://skillicons.dev/icons?i=python,c,java,cpp,cs,javascript,html,css,react,dotnet" /><br/> 
-<img src="https://skillicons.dev/icons?i=nextjs,bootstrap,mysql,mongodb,vscode,vercel,aws,django,tailwind,azure" /><br/> 
+<img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,java,cs,html,css,react,nodejs,express,mongodb" /><br/> 
+<img src="https://skillicons.dev/icons?i=nextjs,tailwind,bootstrap,mysql,django,dotnet,vscode,vercel,aws,azure,nginx,docker" /><br/> 
 </div> 
 
 <br/> 
