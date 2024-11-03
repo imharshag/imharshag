@@ -13,7 +13,7 @@
 <div> 
 <h3>Code • Frameworks • Technologies</h3>
 <img src="https://skillicons.dev/icons?i=python,javascript,c,cpp,java,cs,html,css,react,nodejs,express,mongodb" /><br/> 
-<img src="https://skillicons.dev/icons?i=nextjs,tailwind,bootstrap,mysql,django,dotnet,vscode,vercel,aws,azure,nginx,redis" /><br/> 
+<img src="https://skillicons.dev/icons?i=nextjs,tailwind,bootstrap,mysql,django,dotnet,vscode,vercel,aws,azure,nginx,firebase" /><br/> 
 </div> 
 
 <br/> 
