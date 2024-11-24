@@ -2,11 +2,10 @@
 
 <strong>Aspiring Software Engineer | Tech Enthusiast | Lifelong Learner 🌱</strong>
 
-<img src="https://skillicons.dev/icons?i=linkedin" width="20px"> &nbsp;Let's connect on **[LinkedIn!](https://www.linkedin.com/in/imharshag/)**
+Known on internet as **imharshag** 
 
-<img src="https://skillicons.dev/icons?i=gmail" width="20px">&nbsp; I'm just an email away! Drop me a message at **harshag3106@gmail.com**
-
-🌟 Check out what I've been working on during my studies at **[My Portfolio](https://harshag.vercel.app/)**
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png">](www.linkedin.com/in/imharshag)
+[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png">](harshag3106@gmail.com)
 <br/> 
 <div> 
 <h3>Code • Frameworks • Technologies</h3>
