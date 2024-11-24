@@ -1,8 +1,6 @@
 <h1>Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="34px"> , it's Harsha G here! </h1>
 
-🚀 **Aspiring Software Engineer**, Tech enthusiast. 
-
-🌱&nbsp;Exploring the depths of **Information Science and Engineering** at **JSS Science And Technology University.** 
+<strong>Aspiring Software Engineer | Tech Enthusiast | Lifelong Learner 🌱</strong>
 
 <img src="https://skillicons.dev/icons?i=linkedin" width="20px"> &nbsp;Let's connect on **[LinkedIn!](https://www.linkedin.com/in/imharshag/)**
 
