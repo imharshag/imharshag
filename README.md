@@ -11,13 +11,17 @@ Known on internet as **imharshag**
  
 ### Code • Frameworks • Technologies
 
-#### Programming Languages  
+#### Programming Languages & Technologies
 ![Python](https://skillicons.dev/icons?i=python)&nbsp; 
 ![C++](https://skillicons.dev/icons?i=cpp)&nbsp;
 ![JavaScript](https://skillicons.dev/icons?i=javascript)&nbsp; 
-![Java](https://skillicons.dev/icons?i=java)&nbsp;
-![C#](https://skillicons.dev/icons?i=cs)&nbsp;
 ![C](https://skillicons.dev/icons?i=c)&nbsp;
+![Firebase](https://skillicons.dev/icons?i=firebase)&nbsp;
+![Vercel](https://skillicons.dev/icons?i=vercel)&nbsp;
+![AWS](https://skillicons.dev/icons?i=aws)&nbsp; 
+![Azure](https://skillicons.dev/icons?i=azure)&nbsp;
+![Azure](https://skillicons.dev/icons?i=sklearn)&nbsp; 
+![.NET](https://skillicons.dev/icons?i=dotnet) 
 
 
 #### Frontend Development & Backend Development  
@@ -29,18 +33,8 @@ Known on internet as **imharshag**
 ![Node.js](https://skillicons.dev/icons?i=nodejs)&nbsp; 
 ![Express](https://skillicons.dev/icons?i=express)&nbsp; 
 ![Django](https://skillicons.dev/icons?i=django)&nbsp; 
-![Django](https://skillicons.dev/icons?i=flask)&nbsp; 
-![.NET](https://skillicons.dev/icons?i=dotnet)  
-
-#### Databases, Tools & Platforms  
+![Django](https://skillicons.dev/icons?i=flask)&nbsp;
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)&nbsp; 
 ![MySQL](https://skillicons.dev/icons?i=mysql)&nbsp;
-![Firebase](https://skillicons.dev/icons?i=firebase)&nbsp;
-![Vercel](https://skillicons.dev/icons?i=vercel)&nbsp;
-![AWS](https://skillicons.dev/icons?i=aws)&nbsp; 
-![Azure](https://skillicons.dev/icons?i=azure)&nbsp;
-![Azure](https://skillicons.dev/icons?i=sklearn)&nbsp; 
-![NGINX](https://skillicons.dev/icons?i=nginx)  
-
-
+ 
 <br/> 
