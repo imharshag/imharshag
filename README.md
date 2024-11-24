@@ -4,9 +4,9 @@
 
 Known on internet as **imharshag** 
 
-[![LinkedIn](https://img.icons8.com/?size=60&id=44019&format=png&color=000000)](https://www.linkedin.com/in/imharshag)
-[![GitHub](https://img.icons8.com/?size=60&id=52539&format=png&color=000000)](https://github.com/imharshag)
-[![Email](https://img.icons8.com/?size=60&id=l8GURTKU12XE&format=png&color=000000)](mailto:harshag3106@gmail.com)
+[![LinkedIn](https://img.icons8.com/?size=50&id=44019&format=png&color=000000)](https://www.linkedin.com/in/imharshag)
+[![GitHub](https://img.icons8.com/?size=50&id=52539&format=png&color=000000)](https://github.com/imharshag)
+[![Email](https://img.icons8.com/?size=50&id=l8GURTKU12XE&format=png&color=000000)](mailto:harshag3106@gmail.com)
 
  
 ### Code • Frameworks • Technologies
