@@ -1,6 +1,6 @@
 # Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="34px"> , it's Harsha G here! 
 
-<strong>Aspiring Software Engineer | Tech Enthusiast | Lifelong Learner 🌱</strong><br/>
+<strong>Analyst at KPMG Global Services | Data & Cloud Enthusiast | Lifelong Learner 🌱</strong><br/>
 
 Known on internet as **imharshag** 
 
@@ -13,9 +13,9 @@ Known on internet as **imharshag**
 ![Python](https://skillicons.dev/icons?i=python)&nbsp; 
 ![C++](https://skillicons.dev/icons?i=cpp)&nbsp;
 ![JavaScript](https://skillicons.dev/icons?i=javascript)&nbsp; 
-![Firebase](https://skillicons.dev/icons?i=firebase)&nbsp;
 ![AWS](https://skillicons.dev/icons?i=aws)&nbsp; 
-![AWS](https://img.icons8.com/?size=50&id=3sGOUDo9nJ4k&format=png)&nbsp; 
+![bi](https://img.icons8.com/?size=50&id=3sGOUDo9nJ4k&format=png)&nbsp; 
+![Firebase](https://skillicons.dev/icons?i=firebase)&nbsp;
 ![Vercel](https://skillicons.dev/icons?i=vercel)&nbsp;
 
 
@@ -29,4 +29,7 @@ Known on internet as **imharshag**
 ![Django](https://skillicons.dev/icons?i=django)&nbsp; 
 ![MySQL](https://skillicons.dev/icons?i=mysql)&nbsp; 
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)&nbsp; 
+<br/> 
+<br/>
+⭐ _Feel free to explore my repositories and connect with me!_
 <br/> 
