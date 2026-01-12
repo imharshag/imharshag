@@ -14,6 +14,7 @@ Known on internet as **imharshag**
 ![C++](https://skillicons.dev/icons?i=cpp)&nbsp;
 ![JavaScript](https://skillicons.dev/icons?i=javascript)&nbsp; 
 ![AWS](https://skillicons.dev/icons?i=aws)&nbsp; 
+![bi](https://img.icons8.com/?size=50&id=laYYF3dV0Iew&format=png&color=000000)&nbsp; 
 ![bi](https://img.icons8.com/?size=50&id=3sGOUDo9nJ4k&format=png)&nbsp; 
 ![Firebase](https://skillicons.dev/icons?i=firebase)&nbsp;
 ![Vercel](https://skillicons.dev/icons?i=vercel)&nbsp;
