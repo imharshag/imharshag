@@ -2,7 +2,7 @@
 
 <strong>Analyst at KPMG Global Services | Data & Cloud Enthusiast | Lifelong Learner 🌱</strong><br/>
 
-Known on internet as **imharshag** 
+Known online as **imharshag**
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/imharshag)
 [![Github](https://skillicons.dev/icons?i=github)](https://github.com/imharshag)
